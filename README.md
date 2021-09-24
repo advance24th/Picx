@@ -1,2 +1,1 @@
-# Picx
-Picx a csgo (in development) cheat created with a basis from (osris).
+![picx](https://cdn.discordapp.com/attachments/779964208019537960/890777707036696606/Picxlogo.png)
