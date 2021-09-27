@@ -23,5 +23,5 @@ The fully coded cheat made to run perfectly.
 - Exploits: abuse miscellaneous bugs of the game
 - Movement: movement enhancement
 - Misc: miscellaneous features that didn't get categorized, try them out among others!
-- Style: customize the look of NEPS main menu
+- Style: customize the look of Picx's menu
 - Config: save and load configurations for every feature
